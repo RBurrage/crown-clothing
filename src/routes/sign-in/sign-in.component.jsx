@@ -4,7 +4,7 @@
 import SignUpForm from '../../components/sign-up-form/sign-up-form.component';
 
 import {
-    auth,
+    //auth,
     signInWithGooglePopup,
     createUserDocumentFromAuth
     //signInWithGoogleRedirect
